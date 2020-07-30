@@ -31,6 +31,7 @@
     {% endif %}
   {% endfor %}
 
+  {% comment %}
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -48,6 +49,7 @@
       {% include svg/search.svg %}
     </a>
   {% endif %}
+  {% endcomment %}
 
   {% include custom-icon-links.html %}
 </nav>
