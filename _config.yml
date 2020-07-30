@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Brenda's Blog
 tagline:          'Machine Learning and stuff'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Machine Learning and stuff'
 url:              https://brendajerop.github.io
 baseurl:          '/brenda'
                   # the optional subpath of your site, e.g. "/blog"
