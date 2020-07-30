@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Brenda's Blog
+title:            Brenda's blog
 tagline:          'Machine Learning and stuff'
 description:      'Machine Learning and stuff'
 url:              https://brendajerop.github.io

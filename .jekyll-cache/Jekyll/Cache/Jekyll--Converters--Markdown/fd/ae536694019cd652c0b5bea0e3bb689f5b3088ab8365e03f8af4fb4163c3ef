@@ -1,0 +1,7 @@
+I"<p>It’s the eleventh week of my internship and I’m in the third phase of my internship, which is working on a demo app that demonstrates the usage of more than one MediaWiki Action API module. The demo app I’ve been working on has the following features:</p>
+<ul>
+  <li>Lists the current day’s holidays and observances from Wikipedia.</li>
+  <li>Allows searching for holidays of other dates other than the current date.</li>
+  <li>Allows authentication into Wikipedia in order to add a new holiday.</li>
+</ul>
+:ET

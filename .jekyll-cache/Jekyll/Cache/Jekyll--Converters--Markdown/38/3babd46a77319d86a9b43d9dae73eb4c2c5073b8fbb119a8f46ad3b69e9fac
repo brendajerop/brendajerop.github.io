@@ -1,0 +1,18 @@
+I"�<p>It’s the last week of my internship and it has been a great experience!</p>
+
+<p>Before I began the internship, I was unsure whether I’d be able to successfully work for 8 hours a day from home because of the frequent power blackouts we get, the distractions from my siblings and how unreliable the internet connection at my home is(there are very specific spots in the house where I need to place my mifi router in order to get an okay internet connection. Move the router even a centimeter away and you are disconnected). I had considered commuting to town everyday to work at the library. However, my family ensured that I have a conducive environment to work at home and I am very grateful to them.</p>
+
+<p>What I’ve enjoyed the most is learning lots of new skills and improving the ones I had. One of the tasks required for the internship was to develop a Flask demo app that demonstrates how to use more than one MediaWiki API module. Before the internship, all Flask/Python experience I had was from a group assignment we did at school and from a Django girls event I once attended. I hadn’t explored these technologies further so during the application period, I had to kind of start from scratch again. I have been working with these technologies throughout the internship period and I’m by no means an expert now, but I’m definitely more experienced than I was before.</p>
+
+<p>I was also required to host the app on Toolforge. This task helped me learn a lot about ssh and it also made me appreciate how  helpful good documentation can be. Without a step by step tutorial on how to do the task and the comments in the code of my mentor who had previously hosted an app on Toolforge, I would have taken much much longer than I had to complete the task.</p>
+
+<p>Another thing I’ve learned to appreciate is how important feedback is. I always looked forward to feedback from my mentor and the quality of my work would improve a lot after implementing the changes they requested. Sometimes I’d have a not-so-good workaround to something and the feedback would make me think in a different way, and consider better options which I wouldn’t have thought about earlier.</p>
+
+<p>Concerning contribution to free and software development, I’m definitely bolder now. I’m no longer afraid to learn on the job by taking on tasks which I’m not so experienced in. I’ve also improved my general coding practices by ensuring that I follow the style guides. I’ve also learned to use the official documentation of software. Previously, I would find official documentation tedious, and I’d copy and paste code from Stack Overflow, which would lead to patches of code which I don’t really understand how they work.</p>
+
+<p>With the help of my mentor, we were able to achieve the goal of the internship, which was to improve at least twenty MediaWiki API documentation pages, and develop a demo app to demonstrate how to use at least two API modules. For the remaining time before the internship ends, I was assigned other tasks which are also helping me to learn new skills and I’m really enjoying working on them.</p>
+
+<p>It has been an amazing experience and I have enjoyed working with Wikimedia. I’d love to still be part of Wikimedia after the internship ends so I’ll keep contributing.</p>
+
+<p>Thank you to Outreachy organizers for running this life-changing program, and to my amazing mentor Srishti Sethi who played a big role in ensuring that the internship went successfully.</p>
+:ET

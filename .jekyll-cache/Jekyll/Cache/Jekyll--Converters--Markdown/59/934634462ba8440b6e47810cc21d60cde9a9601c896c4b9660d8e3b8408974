@@ -1,0 +1,2 @@
+I"�<p>I worked on the second task that I had found, and it turned out harder than I thought it would. When a user is revision-deleted on a wiki and you query the user who made a certain revision using API:Revisions, it will return <em>userhidden:” ”</em> instead of user: <em>“brenda”</em>…so my task was to find modules which were affected by this and add a note about these hidden keys.</p>
+:ET
