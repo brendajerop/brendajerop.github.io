@@ -16,5 +16,5 @@ Check out my:
 * [Craft projects](/craft.html)
 
 Find me on:
-* [Linkedin](https://linkedin.com/brendajerop)
+* [Linkedin](https://www.linkedin.com/in/brendajerop)
 * [Twitter](https://twitter.com/itsJerop)
