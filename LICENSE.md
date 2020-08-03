@@ -1,18 +1,12 @@
 
 Blog content license
 =================================================================================================
-Brenda Jerop © 2020, All Rights Reserved
+Brenda Jerop (c) 2020, All Rights Reserved
 
 
 Jekyll Theme license:
 ==================================================
-The MIT License (MIT)
-
-Copyright (c) 2015 Barry Clark
-
-Permission is hereby granted, free of charge, to any person...
-
-# Released under MIT License
+Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
 
