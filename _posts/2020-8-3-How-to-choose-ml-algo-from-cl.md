@@ -7,7 +7,7 @@ excerpt: When creating machine learing applications, there are many algorithms t
 
 ### Introduction
 
-When creating machine learing applications, there are many algorithms that can be used for a particular problem. The best one is usually determined by trying out several and comparing their results. Command line applications can be used to choose which algorithms to train on, and even tune the hyperparameters of the said algorithms.
+When creating machine learning applications, there are many algorithms that can be used for a particular problem. The best one is usually determined by trying out several and comparing their results. Command line applications can be used to choose which algorithms to train on, and even tune the hyperparameters of the said algorithms.
 
 In this tutorial, you will build a tool that allows training on different machine learning algorithms from the command line. You'll use the Titanic dataset to predict whether a passenger died or not.
 
