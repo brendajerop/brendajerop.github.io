@@ -2,7 +2,7 @@
 layout: post
 title: How to Choose a Machine Learning algorithm from the Command Line
 tags: [Machine Learning]
-excerpt: When creating machine learing applications, there are many algorithms that can be used for a particular problem. The best one is usually determined by trying out several and comparing their results. Command line applications can be used to choose which algorithms to train on, and even tune the hyperparameters of the said algorithms.
+excerpt: When creating machine learning applications, there are many algorithms that can be used for a particular problem. The best one is usually determined by trying out several and comparing their results. Command line applications can be used to choose which algorithms to train on, and even tune the hyperparameters of the said algorithms.
 ---
 
 ### Introduction
